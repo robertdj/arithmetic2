@@ -7,7 +7,7 @@ arithmetic2
 An example R package that does basic arithmetic and relies on another [unofficial R package](https://github.com/robertdj/arithmetic1).
 
 ``` r
-library(arithmetic1)
+library(arithmetic2)
 add(1, 1, 1)
 ```
 
